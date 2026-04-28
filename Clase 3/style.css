@@ -1,0 +1,40 @@
+.contenedor{
+    background-color: rgb(210, 197, 179);
+    height: 50vh;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor p, h1{
+    width: 50%;
+    text-align: center;
+}
+header{
+    display: flex;
+    height: 70px;
+    background-color: cadetblue;
+    justify-content: space-between;
+    align-items: center;
+}
+.Logo{
+    display: flex;
+    align-items: center;
+}
+.Logo img{
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav a{
+    font-weight: bold;
+    padding-right: 15px;
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: rgb(97, 61, 36);
+}
+h2{
+    font-style: italic;
+}
