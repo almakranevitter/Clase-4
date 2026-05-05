@@ -1,9 +1,0 @@
-table {
-    border: 5px solid rgb(246, 187, 239);
-    font-family: cursive;
-}
-tr,th,td {
-    border: 2px solid rgb(6, 115, 188);
-    text-align: center;
-    padding: 10px;
-}
